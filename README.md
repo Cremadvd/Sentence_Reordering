@@ -1,5 +1,6 @@
-<h1>Sequence Reordering Neural Network</h1> 
-<b>Developed for the project exam of the the Deep Learning course of the Artificial Intelligence Master's Degree at Alma Mater Studiorum - University of Bologna</b>
+By: Davide Cremonini
+Developing a transformer based neural network tasked with sentence reordering task
+Project for Unibo Master's Degree in Artificial Intelligence
+Course: Machine Learning and Deep Learning - Deep Leanring Module
 
-Python Notebook file contains the code for a small neural network which is tasked with sentence reordering.
-The network was built from scratch following the basic Transformer architecture, it achieved over 90% performance on the task, while the project itself achieved an evaluation of 30/30.
+The python notebook contains the code submitted for the project, the network achieved over 90% performance on the task, while the project itself was graded with an evaluation of 30/30.
